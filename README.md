@@ -1,4 +1,4 @@
-# The Commons Gitattributes Template
+# The Common Gitattributes Templates
 
 Provides easy to incorporate Gitattributes file
 
