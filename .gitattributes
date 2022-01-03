@@ -21,3 +21,6 @@
 
 # Include dep5 declaration file in release archive
 /.reuse/ -export-ignore
+
+# Include product
+/.gitattributes -export-ignore
